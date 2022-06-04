@@ -127,6 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="习题1.cpp" />
+    <ClCompile Include="习题2.cpp" />
+    <ClCompile Include="习题3.cpp" />
+    <ClCompile Include="习题4.cpp" />
+    <ClCompile Include="习题5.cpp" />
+    <ClCompile Include="习题6.cpp" />
+    <ClCompile Include="习题7.cpp" />
     <ClCompile Include="冒泡排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
