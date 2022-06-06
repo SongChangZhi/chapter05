@@ -48,5 +48,17 @@
     <ClCompile Include="习题10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="习题11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题12%28数组办法）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
