@@ -60,5 +60,14 @@
     <ClCompile Include="习题14.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="习题15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -133,6 +133,9 @@
     <ClCompile Include="习题12%28数组办法）.cpp" />
     <ClCompile Include="习题13.cpp" />
     <ClCompile Include="习题14.cpp" />
+    <ClCompile Include="习题15.cpp" />
+    <ClCompile Include="习题16.cpp" />
+    <ClCompile Include="习题17.cpp" />
     <ClCompile Include="习题2.cpp" />
     <ClCompile Include="习题3.cpp" />
     <ClCompile Include="习题4.cpp" />
